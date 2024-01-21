@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
     'https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/AdAsset_96',
     'https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/AdAsset_102',
     'https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/AdAsset_100',
-    'https://relay-bl-in-records.sgp1.cdn.digitaloceanspaces.com/GameNation/AdAsset_101'
+
   ];
 
   @override
